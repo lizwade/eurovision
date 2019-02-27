@@ -32,4 +32,4 @@ You can read about the findings from this code in my blog post at https://32year
 Thanks to datagraver for the dataset, which is available from kaggle here: https://www.kaggle.com/datagraver/eurovision-song-contest-scores-19752018'
 
 This notebook also makes use of national corruption data downloaded from the World Governance Indicators at www.govindicators.org
-although that data did not make it into the final blogpost.
+although that data did not make it into the final blogpost. You are welcome to use my code as you wish.
